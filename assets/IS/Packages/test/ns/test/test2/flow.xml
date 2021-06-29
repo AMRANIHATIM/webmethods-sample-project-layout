@@ -2,7 +2,7 @@
 
 <FLOW VERSION="3.0" CLEANUP="true">
 
-  <!-- nodes -->
+  <!-- les nodes -->
 
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT></COMMENT>
